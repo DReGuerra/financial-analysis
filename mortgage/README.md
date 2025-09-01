@@ -7,6 +7,7 @@ This is an analysis of the cost of a mortgage loan with representative mortgage 
 
 The key aspect here is the cost of the loan (the interest multiplier effect). The 500,000 mortgage required a 100,000 down payment (20\%), which leads to a loan value of 400,000 over 30 years at 4.5\% interest. This results in a total loan repayment of 729,626.85, (see below for details).
 
+
 <!-- AUTO-GENERATED MORTGAGE ANALYSIS START -->
 ## 🏠 Mortgage Analysis Results
 
@@ -21,7 +22,7 @@ The key aspect here is the cost of the loan (the interest multiplier effect). Th
 | 🏠 **Home Price** | $500,000.00 |
 | 💰 **Down Payment** | $100,000.00 (20.0%) |
 | 📊 **Loan Amount** | $400,000.00 |
-| 📈 **Interest Rate** | 4.500% |
+| 📈 **Interest Rate** | 4.50% |
 | ⏰ **Loan Term** | 30 years |
 | 💳 **Monthly Payment** | $2,026.74 |
 
@@ -76,8 +77,9 @@ Cost Distribution:
 - **Interest Burden**: Interest represents **39.7%** of your total home cost
 - **Break-Even**: You'll own 50% equity in **2042-03**
 
-*Last updated: 2025-08-31 19:07:55*
+*Last updated: 2025-08-31 22:33:34*
 <!-- AUTO-GENERATED MORTGAGE ANALYSIS END -->
+
 
 
 ## Amortization Schedule
@@ -105,14 +107,14 @@ Cost Distribution:
     <img src="figures/mortgage_payback_interest_analysis.png", width="100%">
 </p>
 
-## Opportunity Cost Analysis
+
 <!-- AUTO-GENERATED ANALYSIS START -->
 ## 📊 Investment Analysis Results
 
 ### Key Findings
-- **Total Interest Cost**: $329,627
-- **Potential Investment Gains**: $2,414,175
-- **Total Opportunity Cost**: $2,743,802
+- **Total Interest Cost**: $329,626.85
+- **Potential Investment Gains**: $2,414,175.05
+- **Total Opportunity Cost**: $2,743,801.90
 
 ### Detailed Breakdown
 
@@ -142,8 +144,9 @@ Total Opportunity Cost:      $2,743,801.90
 Opportunity Cost (% of loan): 686.0%
 ```
 
-*Last updated: 2025-08-31 19:03:42*
+*Last updated: 2025-08-31 22:36:48*
 <!-- AUTO-GENERATED ANALYSIS END -->
+
 
 <p align="middle">
     <img src="figures/opportunity_cost_analysis.png", width="100%">
